@@ -1,0 +1,6 @@
+[user]
+	email = ssk7594@naver.com
+	emil = ssk7594@naver.com
+	name = 서석규
+[alias]
+	lga = log --graph --oneline --all --decorate
